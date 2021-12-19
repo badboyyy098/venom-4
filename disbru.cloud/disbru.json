@@ -1,0 +1,22 @@
+"run": [
+  os
+]
+"run": [
+  DISBRU
+]
+"run": [
+  SECURITY
+]
+"run": [
+  DISBRU.SECURITY
+]
+"run": [
+  Scripts
+]
+"link.any": "DISBRU SECURITY"
+"version": "1.1.0.0",
+"DISBRU.version": "1.1.0.0",
+"bot.version": "1.1.0.0",
+"DISBRU SECURITY": "SECURITY"
+"SECURITY"="run"
+"default": "DISBRU"
